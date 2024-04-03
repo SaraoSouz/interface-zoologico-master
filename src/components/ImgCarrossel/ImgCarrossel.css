@@ -1,0 +1,12 @@
+.ctn-carrossel {
+    display: block;
+    margin: 0 auto;
+    width: 75%;
+    margin-top: 2%;
+}
+
+.w-100{
+    width: 700px;
+    height: 643px;
+    margin-bottom: 12px;
+}
