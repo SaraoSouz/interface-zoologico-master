@@ -1,13 +1,14 @@
 import './Login.css'
 import Navegacao from '../../components/Navegacao/Navegacao';
+import FormAnimal from '../../components/FormAnimal/FormAnimal';
+
 
 function Login() {
 
     return (
         <>
             <Navegacao />
-            
-            <p style={{color: "#000000"}}>NADA AQUI AINDA</p>
+            <FormAnimal/>
         </>
 
     );

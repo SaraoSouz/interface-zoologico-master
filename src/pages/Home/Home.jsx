@@ -2,6 +2,7 @@ import './Home.css';
 import Atracao from '../../components/Atracao/Atracao';
 import Welcome from '../../components/Welcome/Welcome';
 import Navegacao from '../../components/Navegacao/Navegacao';
+import FormAnimal from '../../components/FormAnimal/FormAnimal';
 
 function Home() {
     const componentes = [];
